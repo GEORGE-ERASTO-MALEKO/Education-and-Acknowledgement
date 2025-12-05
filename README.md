@@ -1,6 +1,5 @@
-# Education-and-Acknowledgement
+# EDUCATION
 
-EDUCATION
 Health Informatics, Postgraduate Certificate                                        September 2025 – August 2026
 George Brown College, Toronto, Ontario
 Coursework: Health Data Analytics, IT Project Management, Database Systems, Process Optimization
